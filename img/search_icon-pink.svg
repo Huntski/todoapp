@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.868" height="26.868" viewBox="0 0 26.868 26.868">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #954fff;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #954fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-311.147 -55.569)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="4" height="12" transform="translate(326.702 73.952) rotate(-45)"/>
+    <g id="Group_5-2" data-name="Group 5">
+      <g id="Ellipse_13" data-name="Ellipse 13" class="cls-2" transform="matrix(0.695, -0.719, 0.719, 0.695, 311.147, 68.517)">
+        <circle class="cls-4" cx="9" cy="9" r="9"/>
+        <circle class="cls-5" cx="9" cy="9" r="7.5"/>
+      </g>
+      <rect id="Rectangle_9-2" data-name="Rectangle 9" class="cls-3" width="4" height="12" transform="translate(326.702 73.952) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

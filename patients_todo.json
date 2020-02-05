@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "7332c937-ad49-4656-92ef-f2143e82d7b9",
+        "todo" : [
+            {
+                "id" : 1,
+                "start" : "9:30",
+                "finish" : "10:00",
+                "title" : "Brush your teeth",
+                "description" : "",
+                "image" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd30y9cdsu7xlg0.cloudfront.net%2Fpng%2F58802-200.png&f=1&nofb=1",
+                "done" : true
+            },
+            {
+                "id" : 2,
+                "start" : "10:10",
+                "finish" : "10:40",
+                "title" : "Take a shower",
+                "description" : "",
+                "image" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F41%2FShower_icon_-_Noun_Project_4336.svg%2F1024px-Shower_icon_-_Noun_Project_4336.svg.png&f=1&nofb=1",
+                "done" : false
+            },
+            {
+                "id" : 3,
+                "start" : "10:50",
+                "finish" : "11:20",
+                "title" : "Comb your hair",
+                "description" : "",
+                "image" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F41%2FShower_icon_-_Noun_Project_4336.svg%2F1024px-Shower_icon_-_Noun_Project_4336.svg.png&f=1&nofb=1",
+                "done" : false
+            },
+            {
+                "id" : 4,
+                "start" : "11:30",
+                "finish" : "12:00",
+                "title" : "Make the bed",
+                "description" : "",
+                "image" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F41%2FShower_icon_-_Noun_Project_4336.svg%2F1024px-Shower_icon_-_Noun_Project_4336.svg.png&f=1&nofb=1",
+                "done" : false
+            },
+            {
+                "id" : 5,
+                "start" : "12:10",
+                "finish" : "12:20",
+                "title" : "Open the window",
+                "description" : "",
+                "image" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F41%2FShower_icon_-_Noun_Project_4336.svg%2F1024px-Shower_icon_-_Noun_Project_4336.svg.png&f=1&nofb=1",
+                "done" : false
+            }
+        ]
+    }
+]

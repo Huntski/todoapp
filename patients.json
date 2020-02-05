@@ -1,0 +1,39 @@
+{
+    "patients": [
+        {
+            "id" : "7332c937-ad49-4656-92ef-f2143e82d7b9",
+            "firstname" : "Ashish",
+            "tussenvoegsels" : "",
+            "lastname" : "Claudia",
+            "image" : "aivd.png"
+        },
+        {
+            "id" : "7332c937-ad49-4656-92ef-f2143e82d7b9",
+            "firstname" : "Joshua",
+            "tussenvoegsels" : "van der",
+            "lastname" : " Poll",
+            "image" : "aivd.png"
+        },
+        {
+            "id" : "7332c937-ad49-4656-92ef-f2143e82d7b9",
+            "firstname" : "Joshua",
+            "tussenvoegsels" : "van der",
+            "lastname" : " Poll",
+            "image" : "aivd.png"
+        },
+        {
+            "id" : "7332c937-ad49-4656-92ef-f2143e82d7b9",
+            "firstname" : "Joshua",
+            "tussenvoegsels" : "van der",
+            "lastname" : " Poll",
+            "image" : "aivd.png"
+        },
+        {
+            "id" : "7332c937-ad49-4656-92ef-f2143e82d7b9",
+            "firstname" : "Joshua",
+            "tussenvoegsels" : "van der",
+            "lastname" : " Poll",
+            "image" : "aivd.png"
+        }
+    ]
+}

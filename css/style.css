@@ -1,0 +1,132 @@
+/*
+*   author: wieb uwu
+*/
+
+/* ========= Fonts ========= */
+
+@font-face {
+    font-family: 'PT bold';
+    src: url(../fonts/pt-sans-bold.ttf);
+}
+
+@font-face {
+    font-family: 'PT Regular';
+    src: url(../fonts/pt-sans.ttf);
+}
+
+/* ========= Global css & modifiers ========= */
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'PT Bold';
+}
+
+* {
+    font-family: 'PT Bold';
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+button, input {
+    border: none;
+    background: none;
+}
+
+/* ========= Phone ========= */
+
+.phone {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 375px;
+    height: 667px;
+    box-shadow: 0 12px 15px -3px rgba(0, 0, 0, .1);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+/* ========= Loading animation ========= */
+
+.loading {
+    position: absolute;
+    background: none;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border: solid 4px #000;
+    border-top-color: rgba(0, 0, 0, 0);
+    border-radius: 50%;
+    animation: loading 1s linear infinite;
+    -webkit-animation: loading 1s linear infinite;
+}
+
+/* ========= Main ========= */
+
+.main {
+    position: relative;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    animation: fadeIn .5s linear;
+    -webkit-animation: fadeIn 1s linear;
+}
+
+/* ========= Credectials ========= */
+
+.info {
+    position: absolute;
+    right: 20%;
+}
+
+.info__title {
+    font-size: 1.3em;
+}
+
+/* ========= Keyframes ========= */
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* ========= Media querys ========= */
+
+@media screen and (max-width: 900px) {
+    .info {
+        display: none;
+    }
+}
